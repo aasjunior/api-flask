@@ -112,7 +112,7 @@ A API possui os seguintes endpoints:
   "A10": 1,
   "Age_Mons": 28,
   "Sex": "f",
-  "Ethnicity": "middle eastern",
+  "Ethnicity": "black",
   "Jaundice": "yes",
   "Family_mem_with_ASD": "no",
   "Who_completed_the_test": "family member",
